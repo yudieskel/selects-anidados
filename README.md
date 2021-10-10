@@ -14,12 +14,12 @@ Estructura:
 
   SelectsAnidados 
 
-          SelectList 
+     SelectList 
 
 Mostramos un primer Select y con renderizado condicional vamos mostrando los otros, 
 
 ya que uno depende del otro 
 
-### Iniciar: npm run start`
+### Iniciar: npm run start
 
 
